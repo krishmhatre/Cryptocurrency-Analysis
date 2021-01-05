@@ -1,26 +1,15 @@
 # Analyzing the Relationship of Cryptocurrencies with Foriegn Exchange Rates and Global Stock Market Indices
 
-[![Check Report](https://github.com/cybertraining-dsc/fa20-523-332/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-332/actions)
-[![Status](https://github.com/cybertraining-dsc/fa20-523-332/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-332/actions)
-Status: final, Type: Project
 
 * Krish Hemant Mhatre
 
-* [fa20-523-332](https://github.com/cybertraining-dsc/fa20-523-332/)
-* [Edit](https://github.com/cybertraining-dsc/fa20-523-332/blob/main/project/project.md)
 * <krishmhatre@icloud.com>
 
-{{% pageinfo %}}
 
 ## Abstract
 
 The project involves analyzing the relationships of various cryptocurrencies with Foreign Exchange Rates and Stock Market Indices. Apart from analyzing the relationships, the objective of the project is also to estimate the trend of the cryptocurrencies based on Foreign Exchange Rates and Stock Market Indices. We will be using historical data of 6 different cryptocurrencies, 25 Stock Market Indices and 22 Foreign Exchange Rates for this project. The project will use various machine learning tools for analysis. The project also uses a fully connected deep neural network for prediction and estimation. Apart from analysis and prediction of prices of cryptocurrencies, the project also involves building its own database and giving access to the database using a prototype API. The historical data and recent predictions can be accessed through the public API. 
 
-Contents
-
-{{< table_of_contents >}}
-
-{{% /pageinfo %}}
 
 **Keywords:** cryptocurrency, stocks, foreign exchange rates.
 
